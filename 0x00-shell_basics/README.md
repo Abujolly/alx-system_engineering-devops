@@ -1,2 +1,1 @@
-#!/bin/bash
-pwd print working directory
+ls use to dispaly the contents list of your current directory
