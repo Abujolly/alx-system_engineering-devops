@@ -6,7 +6,7 @@ How to send the output from one program to the input of another program
 How to combine commands and filters with redirections
 
 
-Special Characters.
+Special Characters
 What are special characters
 Understand what do the white spaces, single quotes, double quotes, backslash, comment, pipe, command separator, tilde and how and when to use them
 
